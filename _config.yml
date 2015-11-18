@@ -1,6 +1,6 @@
 name: mikesite
 favicon: null
-layout_spectrum: 0.9510148165281862
+layout_spectrum: 0.89119
 typography_spectrum: 0.17080406798049808
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.5829145926982164
+  brandStrength: 0.5625
   lightness: 0.5491266683675349
   saturation: 0.7903528579045087
   rhythmicContrast: 0.875450964551419
