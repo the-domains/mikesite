@@ -1,0 +1,23 @@
+name: mikesite
+favicon: null
+layout_spectrum: 0.9510148165281862
+typography_spectrum: 0.17080406798049808
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5829145926982164
+  lightness: 0.5491266683675349
+  saturation: 0.7903528579045087
+  rhythmicContrast: 0.875450964551419
+purpose: []
